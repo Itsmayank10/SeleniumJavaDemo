@@ -1,0 +1,4 @@
+[INFO ] 2022-06-14 14:44:31.762 [main] Log4JDemo - This Info Msg
+[ERROR] 2022-06-14 14:44:31.765 [main] Log4JDemo - This is an Error Msg
+[WARN ] 2022-06-14 14:44:31.765 [main] Log4JDemo - This is Warning Msg
+[FATAL] 2022-06-14 14:44:31.766 [main] Log4JDemo - This is Fatal
